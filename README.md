@@ -47,7 +47,7 @@ Currently the editor supports four image transformations - grayscale, illinify, 
 
 ![Alma](/alma.png)
 
-![Watermark](/watermark.png)
+![Watermark](/overlay.png)
 
 ### Sample outputs
 

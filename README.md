@@ -1,6 +1,6 @@
 # Image Transform
 
-## Intro
+### Description
 
 PNG Editor in C++, with grayscaling, illinifying, spot light creation and watermarking support.
 This is the final project of an Object-oriented C++ course I took.

@@ -45,18 +45,24 @@ Currently the editor supports four image transformations - grayscale, illinify, 
 
 ### Sample input
 
+#### Input image:
 ![Alma](/alma.png)
 
+#### Watermark to apply:
 ![Watermark](/overlay.png)
 
 ### Sample outputs
 
+#### Grayscaled:
 ![Grayscaled](/out-grayscale.png)
 
+#### Illinifyd:
 ![Illinifyd](/out-illinify.png)
 
+#### Spotlighted:
 ![Spotlighted](/out-spotlight.png)
 
+#### Watermarked:
 ![Watermarked](/out-watermark.png)
 
 ## Built With

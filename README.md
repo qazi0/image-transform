@@ -18,10 +18,12 @@ Use the provided `Makefile` to build:
 make
 ```
 
-To execute the image transformations specified in `main.cpp`:
+To execute the image transformations:
 
 ```
-./ImageTransform
+Usage:
+	./ImageTransform <mode> <src_image> <dst_image> [mask_img]
+Where mode can be 'grayscale', 'spotlight' , 'illinify' or 'watermark'
 ```
 
 This will generate the required transformed images in the working directory.

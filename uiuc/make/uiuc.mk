@@ -31,7 +31,6 @@ $(EXE):
 	$(LD) $^ $(LDFLAGS) -o $@
 	@echo ""
 	@echo " Built the main executable program file for the project: " $(EXE)
-	@echo " (Make sure you try \"make test\" too!)"
 	@echo ""
 
 # Rule for `all`

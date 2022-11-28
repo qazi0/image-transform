@@ -1,13 +1,4 @@
-/**
- * @file PNG.cpp
- * Implementation of a simple PNG class using HSLAPixels and the lodepng PNG library.
- *
- * @author University of Illinois CS 225 Course Staff
- * @version 2018r1-lab1 - Updated for CS 400
- */
-
 #include <iostream>
-#include <string>
 #include <algorithm>
 #include <cassert>
 #include "lodepng/lodepng.h"

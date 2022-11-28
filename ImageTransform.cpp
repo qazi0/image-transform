@@ -1,21 +1,8 @@
-#include <iostream>
-//#include <cstdlib>
 #include <cmath>
 #include "uiuc/PNG.h"
 #include "uiuc/HSLAPixel.h"
 #include "ImageTransform.h"
-#include <fstream>
 
-/* ******************
-(Begin multi-line comment...)
-
-Write your name and email address in the comment space here:
-
-Name: Siraj Qazi
-Email: sirajmuneerqazi@gmail.com
-
-(...end multi-line comment.)
-******************** */
 
 using uiuc::PNG;
 using uiuc::HSLAPixel;

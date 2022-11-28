@@ -1,7 +1,4 @@
 
-// Original version by CS 225 Course Staff
-// CS 400 revision with member type testing by Eric Huber
-
 #include <type_traits>
 
 #include "../uiuc/catch/catch.hpp"
@@ -34,7 +31,6 @@ TEST_CASE("HSLAPixel should have member a as double", "[weight=1]") {
 }
 
 // The following tests are disabled.
-// They evaluate constructors, but the Week 1-2 content doesn't cover constructors currently.
 #undef DO_PART1_CTOR_TESTS
 #ifdef DO_PART1_CTOR_TESTS
 
